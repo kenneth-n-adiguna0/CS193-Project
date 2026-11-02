@@ -22,4 +22,5 @@ On the terminal,
 
 
 **Tech Stack**
+
 I will use the Java language and request Purdue's event data (source: https://events.purdue.edu/api/2/events) using Java's built-in HttpClient. I will use Gson to read the returned JSON, and I will use a .txt file and Java's file tools to save the user's selected categories. I will use Java's Scanner to read the user's category choices.
