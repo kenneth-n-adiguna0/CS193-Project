@@ -1,6 +1,6 @@
 # CS193-Project
-**GOAL
-**
+**GOAL**
+
 My alternative to Purdue's website is a terminal-based program where users can select and save their interests as event categories. It retrieves events from Purdue's public API and filters that information to display a short list matching the user's selected categories when the program opens. It will show the key details and a link to each event.
 
 **MVP**
